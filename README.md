@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>    
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>    
 </div>
 <div id="bades" align="center">
     <a href="https://www.linkedin.com/in/telemaco-terzi-b6369b1ab/">
@@ -17,7 +17,7 @@
 ---
 <h1>
     Hi there 👋
-    <img src="https://media.giphy.com/media/WzLDljBpplUvm/giphy.gif" width="50px"/>
+    <img src="https://media.giphy.com/media/WzLDljBpplUvm/giphy.gif" width="500px"/>
 </h1>
 
 ---
