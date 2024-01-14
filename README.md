@@ -15,10 +15,13 @@
 </div>
 
 ---
-<h1>
-    Hi there 👋
+
+<div id="h1" align="center">
+    <h1>
+        Hi there 👋
+    </h1>
     <img src="https://media.giphy.com/media/WzLDljBpplUvm/giphy.gif" width="500px"/>
-</h1>
+</div>
 
 ---
 
