@@ -51,4 +51,4 @@
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tezze2001&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tezze2001&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
