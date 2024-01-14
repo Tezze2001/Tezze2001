@@ -30,6 +30,8 @@
 - 👯 I’m looking to collaborate on funny open source projects
 - 🧗 I love doing trekking
 
+---
+
 ### 🛠️ Languages and Tools:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,3 +47,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
+
+---
+
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tezze2001&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
