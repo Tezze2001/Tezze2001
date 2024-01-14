@@ -3,9 +3,11 @@
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>    
 </div>
 <div id="bades" align="center">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/telemaco-terzi-b6369b1ab/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailt://tezze.terzi01@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
     </a>
 </div>
 ### Hi there 👋
