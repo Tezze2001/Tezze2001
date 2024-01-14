@@ -13,11 +13,19 @@
         <img src="https://img.shields.io/badge/Instragram-purple?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
     </a>
 </div>
-### Hi there 👋
+
+---
+<h1>
+    Hi there 👋
+    <img src="https://media.giphy.com/media/WzLDljBpplUvm/giphy.gif" width="50px"/>
+</h1>
+
+---
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently studing Computer Science at University of Milano-Bicocca 
 - 👯 I’m looking to collaborate on funny open source projects
+- 🧗 I love doing trekking
 
 ### 🛠️ Languages and Tools:
 <div>
