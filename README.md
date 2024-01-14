@@ -2,8 +2,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>    
 </div>
-<div id="header" align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" width="100"/>    
+<div id="bades" align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 ### Hi there 👋
 <!--
