@@ -51,4 +51,4 @@
 ---
 
 ### 🔥 My Stats:
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tezze2001&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tezze2001&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
