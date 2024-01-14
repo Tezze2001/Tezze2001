@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
     </a>
     <a href="https://www.instagram.com/tezze_tezze/">
-        <img src="https://img.shields.io/badge/Instragram-white?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
+        <img src="https://img.shields.io/badge/Instragram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </div>
 
